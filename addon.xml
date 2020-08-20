@@ -1,8 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.thebesteam" name="[COLORcyan]The [/COLOR][COLORlightgrey]BestTeam[/COLOR][COLORcyan] Repository[/COLOR]" version="1.0" provider-name="The Best Team">
 	<extension point="xbmc.addon.repository" name="[COLORcyan]The[/COLOR][COLORlightgrey]BestTeam[/COLOR][COLORcyan] Repository[/COLOR]">
-		    <info compressed="false">https://raw.githubusercontent.com/thebesteam/thebesteam/repository.thebesteam/master/addons.xml</info>
-		    <checksum>https://raw.githubusercontent.com/thebesteam/thebesteam/repository.thebesteam/master/addons.xml.md5</checksum>
-		    <datadir zip="true">https://raw.githubusercontent.com/thebesteam/thebesteam/repository.thebesteam/master</datadir>
+		    <info compressed="false">https://raw.githubusercontent.com/thebesteam/thebesteam/master/addons.xml</info>
+		    <checksum>https://raw.githubusercontent.com/thebesteam/thebesteam/master/addons.xml.md5</checksum>
+		    <datadir zip="true">https://raw.githubusercontent.com/thebesteam/thebesteam/master</datadir>
 		</extension>
 		<extension point="xbmc.addon.metadata">
 			<summary>Enjoy The Best!!!</summary>
