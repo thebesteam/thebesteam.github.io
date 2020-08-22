@@ -23,7 +23,7 @@
 	<extension point="xbmc.addon.repository" name="[COLORcyan]The[/COLOR][COLORlightgrey]BestTeam[/COLOR][COLORcyan] Repository[/COLOR]">
 		    <info compressed="false">https://raw.githubusercontent.com/thebesteam/repository.thebesteam/master/addons.xml</info>
 		    <checksum>https://raw.githubusercontent.com/thebesteam/repository.thebesteam/master/addons.xml.md5</checksum>
-		    <datadir zip="true">https://raw.githubusercontent.com/thebesteam/repository.thebesteam/master</datadir>
+		    <datadir zip="true">https://raw.githubusercontent.com/thebesteam/repository.thebesteam/master/repo</datadir>
 		</extension>
 		<extension point="xbmc.addon.metadata">
 			<summary>repositorio thebesteam</summary>
